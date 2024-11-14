@@ -1,0 +1,13 @@
+a=[1,2,3,6,9,5,2.5,3.6]
+print(a)
+a.sort()
+print(a)
+a.reverse()
+print(a)
+a.append(7)
+print(a)
+a.remove(2.5)
+print(a)
+print(a[0:6])
+print(a.pop(0))
+print(a)
